@@ -8,7 +8,8 @@ Fine particulate matter (PM2.5) is an ambient air pollutant for which there is s
 The data for this assignment are available from the course web site as a single zip file:
 
 https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip 
-Daa for Peer Assessment [29Mb]
+
+Data for Peer Assessment [29Mb]
 
 The zip file contains two files:
 
